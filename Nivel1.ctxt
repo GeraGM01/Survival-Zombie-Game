@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Nivel1
+comment1.params=
+comment1.target=void\ setFields()
+comment2.params=
+comment2.target=void\ nextLevel()
+comment2.text=\r\n\ Metodo\ que\ sirve\ para\ cambiar\ de\ nivel\ \r\n
+numComments=3

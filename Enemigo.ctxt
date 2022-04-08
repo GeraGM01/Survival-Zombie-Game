@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ BadGuys\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=clss
+comment2.target=boolean\ canSee(java.lang.Class)
+comment2.text=\r\n\ Uso\ la\ siguiente\ funcion\ para\ saber\ si\ el\ jugador\ esta\ tocando\ algun\ objeto,\ retorna\ verdadero\ si\ es\ asi\r\n\ de\ lo\ contrario,\ no\ hara\ nada\ este\ metodo\r\n
+comment3.params=clss
+comment3.target=void\ get(java.lang.Class)
+comment3.text=\r\n\ Try\ to\ grab\ an\ object\ of\ class\ 'clss'.\ This\ is\ only\ successful\ if\ there\r\n\ is\ such\ an\ object\ where\ we\ currently\ are.\ Otherwise\ this\ method\ does\r\n\ nothing.\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ Metodo\ getter\ para\ la\ puntuacion\ que\ despues\ ser\u00E1\ llamado\ por\ la\ clase\ Score\ para\ poner\ la\ puntuacion\ en\ pantalla\r\n
+numComments=5
